@@ -1,7 +1,3 @@
-# Lambda Architecture using Spark and HDFS 
-Creating a speed layer using Spark, and a batch layer using Hadoop HDFS
-
-
 # Project 2: Tracking User Activity
 
 Scenario:
